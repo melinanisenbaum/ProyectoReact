@@ -1,0 +1,55 @@
+.site-header {    
+    height: 60rem;
+    padding: 0;
+    
+}
+
+.contenedor {    
+    width: 100%;
+    margin: 0;
+}
+
+.barra {
+    display: flex;
+    justify-content: space-between;    
+    /*flex-end justifica a la derecha*/
+    align-items: center;
+    background-color: #dddddd;
+    background-size: cover;
+    
+    }
+
+.barra2 {
+    display: flex;
+    justify-content: space-around; 
+    /*flex-end justifica a la derecha*/
+    align-items: center;
+    background-color: #ffffff;
+    background-size: cover;
+        
+    }
+    
+
+.navegacion {
+    text-align: center;    
+    font-size: 1.8rem;
+    color: #ffffff;
+    text-decoration: none; 
+    margin: 0 10rem;   
+}
+
+.navegacion a {
+    padding-left: 2rem;
+}
+
+.navegacion nav a {
+    padding-left: 2rem;
+}
+
+
+.nav-bar a{
+    padding: 1rem;
+}
+a img{
+    max-width: 25rem;
+}
